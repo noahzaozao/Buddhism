@@ -266,3 +266,5 @@
 如露亦如电，应作如是观。 
 
 佛说是经已，长老须菩提，及诸比丘、比丘尼、优婆塞、优婆夷，一切世间天、人、阿修罗，闻佛所说，皆大欢喜，信受奉行。 
+
+[目录](https://github.com/noahzaozao/Buddhism/blob/master/README.md "目录")
